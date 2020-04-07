@@ -3,7 +3,7 @@
  
  My session at TensorFlow User Group - Chennai 2020 for humans 
  
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1M7VtZUGTcFMPyQEPaIi5OuxB8oYxAkbXpTO9l7NmP3Q/edit?usp=sharing)
 
 ### [Twitter mention](https://twitter.com/TFUGChennai/status/1247205206493782021)
 
